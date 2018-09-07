@@ -13,6 +13,4 @@ import { AppComponent } from './app.component';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { 
-  title = 'My First Angular App :)';
-}
+export class AppModule { }
